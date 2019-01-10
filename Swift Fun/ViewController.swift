@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by John Hoffman on 1/10/19.
-//  Copyright © 2019 John Hoffman. All rights reserved..
+//  Copyright © 2019 John Hoffman. All rights reserved...
 //
 
 import UIKit
